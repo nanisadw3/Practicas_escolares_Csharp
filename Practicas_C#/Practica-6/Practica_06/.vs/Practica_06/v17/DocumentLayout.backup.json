@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-6\\Practica_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A2E3F-D884-4484-8171-7F781553D853}|Practica_06\\Practica_06.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-6\\practica_06\\practica_06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A2E3F-D884-4484-8171-7F781553D853}|Practica_06\\Practica_06.csproj|solutionrelative:practica_06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A2E3F-D884-4484-8171-7F781553D853}|Practica_06\\Practica_06.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-6\\practica_06\\practica_06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E1A2E3F-D884-4484-8171-7F781553D853}|Practica_06\\Practica_06.csproj|solutionrelative:practica_06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1A2E3F-D884-4484-8171-7F781553D853}|Practica_06\\Practica_06.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-6\\practica_06\\practica_06\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1A2E3F-D884-4484-8171-7F781553D853}|Practica_06\\Practica_06.csproj|solutionrelative:practica_06\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-6\\Practica_06\\Practica_06\\Usuario.cs",
+              "RelativeDocumentMoniker": "Practica_06\\Usuario.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-6\\Practica_06\\Practica_06\\Usuario.cs",
+              "RelativeToolTip": "Practica_06\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:41:45.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-6\\Practica_06\\Practica_06\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_06\\Form1.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-6\\Practica_06\\Practica_06\\Form1.cs",
+              "RelativeToolTip": "Practica_06\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:35:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-6\\Practica_06\\Practica_06\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_06\\Form1.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-6\\Practica_06\\Practica_06\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica_06\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:35:07.139Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
