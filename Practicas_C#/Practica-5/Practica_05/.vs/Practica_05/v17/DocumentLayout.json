@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9364246-73BC-41B9-B1DB-7719C3082C62}|Practica_05\\Practica_05.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-5\\practica_05\\practica_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9364246-73BC-41B9-B1DB-7719C3082C62}|Practica_05\\Practica_05.csproj|solutionrelative:practica_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9364246-73BC-41B9-B1DB-7719C3082C62}|Practica_05\\Practica_05.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-5\\practica_05\\practica_05\\guitarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9364246-73BC-41B9-B1DB-7719C3082C62}|Practica_05\\Practica_05.csproj|solutionrelative:practica_05\\guitarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9364246-73BC-41B9-B1DB-7719C3082C62}|Practica_05\\Practica_05.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-5\\practica_05\\practica_05\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9364246-73BC-41B9-B1DB-7719C3082C62}|Practica_05\\Practica_05.csproj|solutionrelative:practica_05\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9364246-73BC-41B9-B1DB-7719C3082C62}|Practica_05\\Practica_05.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-5\\practica_05\\practica_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9364246-73BC-41B9-B1DB-7719C3082C62}|Practica_05\\Practica_05.csproj|solutionrelative:practica_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\Practica_05\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_05\\Form1.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\Practica_05\\Form1.cs",
+              "RelativeToolTip": "Practica_05\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:00:32.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guitarra.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\Practica_05\\Guitarra.cs",
+              "RelativeDocumentMoniker": "Practica_05\\Guitarra.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\Practica_05\\Guitarra.cs",
+              "RelativeToolTip": "Practica_05\\Guitarra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:47:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instrumento.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\Practica_05\\Instrumento.cs",
+              "RelativeDocumentMoniker": "Practica_05\\Instrumento.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\Practica_05\\Instrumento.cs",
+              "RelativeToolTip": "Practica_05\\Instrumento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:45:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\Practica_05\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_05\\Form1.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-5\\Practica_05\\Practica_05\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica_05\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:43:05.042Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
