@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-1\\practica_01\\practica_01\\precion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|solutionrelative:practica_01\\precion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-1\\practica_01\\practica_01\\programa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|solutionrelative:practica_01\\programa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-1\\practica_01\\practica_01\\programa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|solutionrelative:practica_01\\programa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-1\\practica_01\\practica_01\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|solutionrelative:practica_01\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-1\\practica_01\\practica_01\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D9EEC4-5DE9-437E-90E9-66779FD1F562}|Practica_01\\Practica_01.csproj|solutionrelative:practica_01\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Precion.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Precion.cs",
+              "RelativeDocumentMoniker": "Practica_01\\Precion.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Precion.cs",
+              "RelativeToolTip": "Practica_01\\Precion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:49:42.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calcular.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Calcular.cs",
+              "RelativeDocumentMoniker": "Practica_01\\Calcular.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Calcular.cs",
+              "RelativeToolTip": "Practica_01\\Calcular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:18:49.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Practica_01\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Cuenta.cs",
+              "RelativeToolTip": "Practica_01\\Cuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:12:02.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programa1.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Programa1.cs",
+              "RelativeDocumentMoniker": "Practica_01\\Programa1.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Programa1.cs",
+              "RelativeToolTip": "Practica_01\\Programa1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAIAwwFwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:02:50.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programa1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Programa1.cs",
+              "RelativeDocumentMoniker": "Practica_01\\Programa1.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-1\\Practica_01\\Practica_01\\Programa1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica_01\\Programa1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:48:04.478Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
