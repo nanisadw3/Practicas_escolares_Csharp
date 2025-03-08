@@ -23,3 +23,8 @@
 📌 **Autor:** Inaki Sobera
 
 Si tienes sugerencias o quieres colaborar, ¡haz un fork y contribuye! 😊✨  
+
+## 📜 Licencia
+
+Este proyecto está licenciado bajo los términos de la **GNU General Public License v3.0**.  
+Para más información, visita [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html).
