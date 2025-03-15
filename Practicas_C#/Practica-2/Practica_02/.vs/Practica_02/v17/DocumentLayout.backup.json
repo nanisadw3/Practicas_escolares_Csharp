@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{68596B44-066A-4D37-B5A0-05326C3B3C8B}|Practica_02\\Practica_02.csproj|solutionrelative:practica_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68596B44-066A-4D37-B5A0-05326C3B3C8B}|Practica_02\\Practica_02.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-2\\practica_02\\practica_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{68596B44-066A-4D37-B5A0-05326C3B3C8B}|Practica_02\\Practica_02.csproj|C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-2\\Practica_02\\practica_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{68596B44-066A-4D37-B5A0-05326C3B3C8B}|Practica_02\\Practica_02.csproj|solutionrelative:practica_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68596B44-066A-4D37-B5A0-05326C3B3C8B}|Practica_02\\Practica_02.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-2\\practica_02\\practica_02\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68596B44-066A-4D37-B5A0-05326C3B3C8B}|Practica_02\\Practica_02.csproj|C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-2\\Practica_02\\practica_02\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68596B44-066A-4D37-B5A0-05326C3B3C8B}|Practica_02\\Practica_02.csproj|solutionrelative:practica_02\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Practica_02\\Form1.cs",
               "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-2\\Practica_02\\Practica_02\\Form1.cs",
               "RelativeToolTip": "Practica_02\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAApwBsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T05:17:27.232Z",
               "EditorCaption": ""
@@ -43,12 +43,11 @@
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-2\\Practica_02\\Practica_02\\Empleado.cs",
               "RelativeDocumentMoniker": "Practica_02\\Empleado.cs",
-              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-2\\Practica_02\\Practica_02\\Empleado.cs*",
-              "RelativeToolTip": "Practica_02\\Empleado.cs*",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-2\\Practica_02\\Practica_02\\Empleado.cs",
+              "RelativeToolTip": "Practica_02\\Empleado.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T05:18:01.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T05:18:01.226Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-2\\Practica_02\\Practica_02\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Practica_02\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T03:54:01.715Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-02T03:54:01.715Z"
             }
           ]
         }

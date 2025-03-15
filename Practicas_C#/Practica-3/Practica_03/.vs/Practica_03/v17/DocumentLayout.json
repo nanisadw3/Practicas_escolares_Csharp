@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-3\\Practica_03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-3\\Practica_03\\practica_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|solutionrelative:practica_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-3\\practica_03\\practica_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|solutionrelative:practica_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-3\\practica_03\\practica_03\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-3\\Practica_03\\practica_03\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|solutionrelative:practica_03\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-3\\practica_03\\practica_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{411C1391-5CDD-4F37-9275-7F462412D686}|Practica_03\\Practica_03.csproj|solutionrelative:practica_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Almacen.cs",
               "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-3\\Practica_03\\Practica_03\\Almacen.cs",
               "RelativeDocumentMoniker": "Practica_03\\Almacen.cs",
@@ -34,25 +34,24 @@
               "RelativeToolTip": "Practica_03\\Almacen.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:35:57.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T23:35:57.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-3\\Practica_03\\Practica_03\\Form1.cs",
               "RelativeDocumentMoniker": "Practica_03\\Form1.cs",
               "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-3\\Practica_03\\Practica_03\\Form1.cs",
               "RelativeToolTip": "Practica_03\\Form1.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T23:29:42.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-3\\Practica_03\\Practica_03\\Form1.cs",
               "RelativeDocumentMoniker": "Practica_03\\Form1.cs",

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E0F85E-1297-4325-B166-8C6A9F88A8ED}|Practica_09\\Practica_09.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-9\\practica_09\\practica_09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E0F85E-1297-4325-B166-8C6A9F88A8ED}|Practica_09\\Practica_09.csproj|solutionrelative:practica_09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E0F85E-1297-4325-B166-8C6A9F88A8ED}|Practica_09\\Practica_09.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-9\\practica_09\\practica_09\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E0F85E-1297-4325-B166-8C6A9F88A8ED}|Practica_09\\Practica_09.csproj|solutionrelative:practica_09\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E0F85E-1297-4325-B166-8C6A9F88A8ED}|Practica_09\\Practica_09.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-9\\practica_09\\practica_09\\miexepcioncampovacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E0F85E-1297-4325-B166-8C6A9F88A8ED}|Practica_09\\Practica_09.csproj|solutionrelative:practica_09\\miexepcioncampovacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E0F85E-1297-4325-B166-8C6A9F88A8ED}|Practica_09\\Practica_09.csproj|c:\\users\\inaki\\source\\repos\\practicas_csharp\\practicas_c#\\practica-9\\practica_09\\practica_09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47E0F85E-1297-4325-B166-8C6A9F88A8ED}|Practica_09\\Practica_09.csproj|solutionrelative:practica_09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registros.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\Practica_09\\Registros.cs",
+              "RelativeDocumentMoniker": "Practica_09\\Registros.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\Practica_09\\Registros.cs*",
+              "RelativeToolTip": "Practica_09\\Registros.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:08:52.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiExepcionCampoVacio.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\Practica_09\\MiExepcionCampoVacio.cs",
+              "RelativeDocumentMoniker": "Practica_09\\MiExepcionCampoVacio.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\Practica_09\\MiExepcionCampoVacio.cs*",
+              "RelativeToolTip": "Practica_09\\MiExepcionCampoVacio.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:51:27.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\Practica_09\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_09\\Form1.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\Practica_09\\Form1.cs",
+              "RelativeToolTip": "Practica_09\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:35:20.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\Practica_09\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica_09\\Form1.cs",
+              "ToolTip": "C:\\Users\\inaki\\source\\repos\\Practicas_CSharp\\Practicas_C#\\Practica-9\\Practica_09\\Practica_09\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica_09\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:30:36.601Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
