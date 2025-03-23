@@ -1,0 +1,10 @@
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\bin\Debug\Practica_10.exe.config
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\bin\Debug\Practica_10.exe
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\bin\Debug\Practica_10.pdb
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\obj\Debug\Practica_10.csproj.AssemblyReference.cache
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\obj\Debug\Practica_10.Form1.resources
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\obj\Debug\Practica_10.Properties.Resources.resources
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\obj\Debug\Practica_10.csproj.GenerateResource.cache
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\obj\Debug\Practica_10.csproj.CoreCompileInputs.cache
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\obj\Debug\Practica_10.exe
+C:\Users\inaki\source\repos\Practicas_CSharp\Practicas_C#\Practica-10\Practica_10\Practica_10\obj\Debug\Practica_10.pdb
